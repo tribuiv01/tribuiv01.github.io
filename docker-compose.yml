@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:17
+    container_name: postgresql
+    restart: always
+    environment:
+      - POSTGRES_USER=tribuiv01
+      - POSTGRES_PASSWORD=your_password
+      - POSTGRES_DB=mydatabase
+      - PGDATA=/var/lib/postgresql/data/pgdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - postgres_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U tribuiv01 -d mydatabase"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+
+volumes:
+  postgres_data:
+    name: postgres_data
+
+networks:
+  postgres_network:
+    name: postgres_network

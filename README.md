@@ -13,31 +13,6 @@ Tôi là một người đam mê công nghệ thông tin, hiện đang phát tri
 - 📫 Liên hệ với tôi: **[email@example.com]**
 - ⚡ Sở thích: **[Sở thích ngoài công nghệ]**
 
-## 📈 Hành trình phát triển của tôi
-
-```mermaid
-timeline
-    title Hành trình phát triển chuyên môn
-    [Năm bắt đầu] : Bắt đầu học lập trình
-        : Ngôn ngữ đầu tiên - [Tên ngôn ngữ]
-    [Năm] : Tốt nghiệp [Bằng cấp]
-        : [Trường/Tổ chức]
-    [Năm] : Vị trí đầu tiên
-        : [Tên công ty]
-        : [Vai trò/Vị trí]
-    [Năm] : Dự án quan trọng
-        : [Tên dự án]
-        : [Thành tựu chính]
-    [Năm] : Chứng chỉ quan trọng
-        : [Tên chứng chỉ]
-    [Năm] : Vị trí hiện tại
-        : [Tên công ty]
-        : [Vai trò/Vị trí]
-    [Năm hiện tại] : Mục tiêu hiện tại
-        : [Mục tiêu ngắn hạn]
-        : [Mục tiêu dài hạn]
-```
-
 ## 🛠️ Kỹ năng & Công nghệ
 
 ### Ngôn ngữ lập trình
@@ -69,77 +44,40 @@ timeline
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🎓 Học vấn & Chứng chỉ
+## 📚 Hành trình học tập CNTT của tôi
 
-```mermaid
-journey
-    title Hành trình học tập
-    section Học vấn
-      [Bằng cấp/Chứng chỉ 1]: 5: [Năm]
-      [Bằng cấp/Chứng chỉ 2]: 5: [Năm]
-    section Chứng chỉ chuyên môn
-      [Chứng chỉ 1]: 5: [Năm]
-      [Chứng chỉ 2]: 5: [Năm]
-      [Chứng chỉ 3]: 5: [Năm]
-    section Khóa học online
-      [Khóa học 1]: 4: [Năm]
-      [Khóa học 2]: 4: [Năm]
-      [Khóa học 3]: 4: [Năm]
-```
+### 🌱 Bắt đầu
+Hành trình của tôi với công nghệ thông tin bắt đầu khi [mô tả ngắn gọn về cách bạn bắt đầu với CNTT]. Ban đầu, tôi đã [mô tả những bước đầu tiên của bạn, ví dụ: tự học lập trình Python thông qua các khóa học online].
 
-## 💼 Kinh nghiệm làm việc
+### 🎓 Học vấn
+- **[Năm] - [Năm]**: [Bằng cấp/Chứng chỉ] - [Trường/Tổ chức]
+- **[Năm] - [Năm]**: [Bằng cấp/Chứng chỉ] - [Trường/Tổ chức]
 
-### **[Năm] - Hiện tại**: [Vị trí hiện tại] tại [Công ty hiện tại]
+### 💼 Kinh nghiệm
+- **[Năm] - [Năm]**: [Vị trí] tại [Công ty]
+  - [Mô tả ngắn gọn về trách nhiệm và thành tựu]
+- **[Năm] - [Năm]**: [Vị trí] tại [Công ty]
+  - [Mô tả ngắn gọn về trách nhiệm và thành tựu]
 
-![Company Badge](https://img.shields.io/badge/-[Tên%20Công%20Ty]-0078D7?style=for-the-badge)
-
-- [Thành tựu hoặc trách nhiệm chính 1]
-- [Thành tựu hoặc trách nhiệm chính 2]
-- [Thành tựu hoặc trách nhiệm chính 3]
-- **Công nghệ sử dụng:** [Danh sách công nghệ]
-
-### **[Năm] - [Năm]**: [Vị trí trước đây] tại [Công ty trước đây]
-
-![Company Badge](https://img.shields.io/badge/-[Tên%20Công%20Ty]-4285F4?style=for-the-badge)
-
-- [Thành tựu hoặc trách nhiệm chính 1]
-- [Thành tựu hoặc trách nhiệm chính 2]
-- **Công nghệ sử dụng:** [Danh sách công nghệ]
-
-### **[Năm] - [Năm]**: [Vị trí đầu tiên] tại [Công ty đầu tiên]
-
-![Company Badge](https://img.shields.io/badge/-[Tên%20Công%20Ty]-EA4335?style=for-the-badge)
-
-- [Thành tựu hoặc trách nhiệm chính 1]
-- [Thành tựu hoặc trách nhiệm chính 2]
-- **Công nghệ sử dụng:** [Danh sách công nghệ]
+### 🏆 Chứng chỉ
+- [Tên chứng chỉ] - [Tổ chức cấp] ([Năm])
+- [Tên chứng chỉ] - [Tổ chức cấp] ([Năm])
 
 ## 🚀 Dự án nổi bật
 
-### [Năm] - [Tên dự án 1](https://github.com/yourusername/project1)
+### [Tên dự án 1](https://github.com/yourusername/project1)
 
 ![Project Badge](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Project Badge](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 Mô tả ngắn gọn về dự án, các công nghệ sử dụng và vai trò của bạn trong dự án.
 
-### [Năm] - [Tên dự án 2](https://github.com/yourusername/project2)
+### [Tên dự án 2](https://github.com/yourusername/project2)
 
 ![Project Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Project Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 Mô tả ngắn gọn về dự án, các công nghệ sử dụng và vai trò của bạn trong dự án.
-
-## 📝 Blog & Viết lách
-
-### [Năm] - [Tiêu đề bài viết 1](https://example.com/article1)
-Mô tả ngắn gọn về nội dung bài viết và các chủ đề chính.
-
-### [Năm] - [Tiêu đề bài viết 2](https://example.com/article2)
-Mô tả ngắn gọn về nội dung bài viết và các chủ đề chính.
-
-### [Năm] - [Tiêu đề bài viết 3](https://example.com/article3)
-Mô tả ngắn gọn về nội dung bài viết và các chủ đề chính.
 
 ## 📊 GitHub Stats
 
@@ -149,6 +87,14 @@ Mô tả ngắn gọn về nội dung bài viết và các chủ đề chính.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
+## 📝 Blog & Viết lách
+
+Tôi thường xuyên chia sẻ kiến thức và kinh nghiệm của mình về công nghệ thông tin tại [tên blog của bạn hoặc nền tảng viết lách].
+
+- [Tiêu đề bài viết 1](https://example.com/article1)
+- [Tiêu đề bài viết 2](https://example.com/article2)
+- [Tiêu đề bài viết 3](https://example.com/article3)
+
 ## 🌟 Lời khuyên cho người mới học CNTT
 
 1. **Học từ nền tảng**: Đừng bỏ qua kiến thức cơ bản. Hiểu rõ các nguyên lý nền tảng sẽ giúp bạn tiến xa hơn.
@@ -156,6 +102,8 @@ Mô tả ngắn gọn về nội dung bài viết và các chủ đề chính.
 3. **Xây dựng dự án thực tế**: Áp dụng kiến thức vào các dự án thực tế sẽ giúp bạn hiểu sâu hơn và có portfolio ấn tượng.
 4. **Tham gia cộng đồng**: Kết nối với những người cùng đam mê, tham gia các diễn đàn như Stack Overflow, GitHub, Reddit.
 5. **Học liên tục**: Công nghệ luôn thay đổi, hãy cập nhật kiến thức thường xuyên và sẵn sàng học hỏi suốt đời.
+6. **Tìm mentor**: Có một người hướng dẫn kinh nghiệm sẽ giúp bạn tiết kiệm thời gian và tránh những sai lầm không cần thiết.
+7. **Đừng sợ thất bại**: Bug và lỗi là một phần của quá trình học. Hãy xem chúng như cơ hội để học hỏi.
 
 ## 📫 Kết nối với tôi
 
@@ -164,17 +112,6 @@ Mô tả ngắn gọn về nội dung bài viết và các chủ đề chính.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## 🎯 Mục tiêu tương lai
-
-```mermaid
-graph LR
-    A[Hiện tại] --> B[Mục tiêu ngắn hạn 1]
-    A --> C[Mục tiêu ngắn hạn 2]
-    B --> D[Mục tiêu trung hạn 1]
-    C --> D
-    D --> E[Mục tiêu dài hạn]
-```
 
 ---
 

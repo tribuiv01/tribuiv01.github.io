@@ -33,3 +33,7 @@
 - Thiết bị và phụ kiện công nghệ
 
 > Tối ưu hoá SEO, công nghệ mới (AI, chatbot), bảo mật...
+
+## Freelancer (outsource)
+- Project
+- Task operation

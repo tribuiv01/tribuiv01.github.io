@@ -20,3 +20,16 @@
 ...
 
 - Website/Application (Android/iOS)/...
+
+## Ý tưởng làm web/code
+- Thương mại điện tử: mua bán, giỏ hàng, thanh toán
+- Giới thiệu doanh nghiệp: landing page
+- Blog và content
+- Portfolio: trưng bày cho cá nhân và doanh nghiệp, thiết kế, nhiếp ảnh, kiến trúc
+- Thành viên và cộng đồng
+- Nền tảng khoá học
+- Đặt đồ ăn và giao hàng
+- Thời trang và phụ kiện
+- Thiết bị và phụ kiện công nghệ
+
+> Tối ưu hoá SEO, công nghệ mới (AI, chatbot), bảo mật...

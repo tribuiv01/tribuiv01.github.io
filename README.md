@@ -1,5 +1,8 @@
 # Learning...
 
+* http://blog.tribv.cloud/
+* http://aws.tribv.cloud/
+
 ## (init)
 - Đăng kí tài khoản Gmail
 - Đăng kí tài khoản Github

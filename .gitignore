@@ -1,1 +1,25 @@
 **/.terraform/*
+# Thư mục .terraform
+**/.terraform/*
+
+# File trạng thái
+*.tfstate
+*.tfstate.*
+
+# File log
+crash.log
+crash.*.log
+
+# File .tfvars có thể chứa thông tin nhạy cảm
+*.tfvars
+*.tfvars.json
+
+# File override
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# File cấu hình CLI
+.terraformrc
+terraform.rc

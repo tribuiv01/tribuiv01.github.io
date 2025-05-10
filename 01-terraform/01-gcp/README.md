@@ -33,3 +33,19 @@ VM: p-webapp-api-us-central1-001
 Storage: techviet-marketing-assets-us
 Database: p-erp-postgres-us-central1
 ```
+
+```
+prj
+hub
+spoke=>spo
+shared=>sha
+vpc
+sb=>sbn
+vmx/w
+mig
+vpn
+peer
+fw
+sp
+sa
+```

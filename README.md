@@ -40,3 +40,9 @@
 ## Freelancer (outsource)
 - Project
 - Task operation
+
+# Notes
+
+- Docker installation https://docs.docker.com/engine/install/ubuntu/
+- Kubernetes
+- Terraform

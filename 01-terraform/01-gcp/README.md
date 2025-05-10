@@ -56,5 +56,5 @@ prj-tribvcloud
 gcloud projects create prj-tribvcloud
 gcloud beta billing projects describe prj-tribvcloud
 gcloud services enable compute.googleapis.com --project=prj-tribvcloud
-
+cat ~/.ssh/id_rsa.pub
 ```

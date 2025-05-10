@@ -23,6 +23,9 @@ resource "google_compute_instance" "vm_instance" {
   }
 
   metadata_startup_script = "apt-get update && apt-get install -y nginx"
+  metadata = {
+    ssh-keys = "${var.ssh_user}:${file(var.ssh_pub_key_file)}"
+  }
 
   tags = ["http-server"]
 }

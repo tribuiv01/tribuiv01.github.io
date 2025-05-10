@@ -4,7 +4,10 @@ resource "google_project_service" "required_apis" {
     "iam.googleapis.com",              # Identity and Access Management API
     "cloudresourcemanager.googleapis.com", # Cloud Resource Manager API
     "serviceusage.googleapis.com",     # Service Usage API
-    "servicenetworking.googleapis.com" # Service Networking API
+    "servicenetworking.googleapis.com", # Service Networking API
+    "dns.googleapis.com",
+    "networkconnectivity.googleapis.com",
+    "container.googleapis.com"
   ])
   
   project = "prj-tribvcloud"

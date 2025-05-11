@@ -60,3 +60,5 @@
 - Docker installation https://docs.docker.com/engine/install/ubuntu/
 - Kubernetes
 - Terraform
+
+echo 'gitacp() { git add . && git commit -m "$1" && git push; }' >> ~/.bashrc

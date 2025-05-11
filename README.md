@@ -50,6 +50,7 @@
 - Budget and backup planning $100-$200
 - Scaling ~>>>
 - Opearation
+- Migration
 
 ## Freelancer (outsource)
 - Project

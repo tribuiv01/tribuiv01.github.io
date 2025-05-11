@@ -1,0 +1,13 @@
+name: CI on Self-hosted Runner
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: self-hosted  # Sử dụng self-hosted runner
+    # Hoặc chỉ định label cụ thể: runs-on: [self-hosted, linux, x64]
+    
+    steps:
+    - uses: actions/checkout@v3
+    - name: Run a script
+      run: echo "Running on self-hosted runner!"

@@ -38,6 +38,19 @@
 
 > Tối ưu hoá SEO, công nghệ mới (AI, chatbot), bảo mật...
 
+# Start up
+- Domain
+- Hosting/Server: CPU RAM Sotrage
+- Platform e-com
+- SSL
+- UI/UX image content
+- Performance
+- Opearation
+- SEO marketing Ads
+- Analytics traffic optimization
+- Budget and backup planning
+- Scaling
+
 ## Freelancer (outsource)
 - Project
 - Task operation

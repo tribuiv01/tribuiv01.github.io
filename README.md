@@ -2,7 +2,9 @@
 
 * http://blog.tribv.cloud/
 * http://aws.tribv.cloud/
-* http://aws.tribv.cloud/
+* http://gcp.tribv.cloud/
+* http://azure.tribv.cloud/
+* http://do.tribv.cloud/
 
 ## (init)
 - Đăng kí tài khoản Gmail

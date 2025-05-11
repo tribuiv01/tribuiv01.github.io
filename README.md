@@ -61,5 +61,9 @@
 - Kubernetes
 - Terraform
 
+```
 echo 'gitacp() { git add . && git commit -m "$1" && git push; }' >> ~/.bashrc
 source ~/.bashrc
+```
+
+- https://tenten.vn/tin-tuc/100-mau-themes-landing-page-wordpress-dep/

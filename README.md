@@ -39,17 +39,17 @@
 > Tối ưu hoá SEO, công nghệ mới (AI, chatbot), bảo mật...
 
 # Start up
-- Domain
-- Hosting/Server: CPU RAM Sotrage
-- Platform e-com
-- SSL
-- UI/UX image content
-- Performance
-- Opearation
-- SEO marketing Ads
+- Domain -> year
+- Hosting/Server: CPU RAM Storage -> default
+- Platform e-com -> open-source
+- SSL -> free
+- UI/UX image content -learning
+- Performance and Testing -learning
+- SEO marketing Ads -learning
 - Analytics traffic optimization
-- Budget and backup planning
-- Scaling
+- Budget and backup planning $100-$200
+- Scaling ~>>>
+- Opearation
 
 ## Freelancer (outsource)
 - Project

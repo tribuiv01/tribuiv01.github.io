@@ -1,0 +1,3 @@
+* Sử dụng zonal cluster thay vì regional
+*   gcloud components install gke-gcloud-auth-plugin
+* 

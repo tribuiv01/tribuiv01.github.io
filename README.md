@@ -81,3 +81,10 @@ Idealy:
 * Làm trang giới thiệu công ty
 * Làm trang 3D gì đớ, xịn xò
 * Làm trang 1 dạng như form để lấy thông tin
+* Làm trang lưu trữ hình ảnh, nét và full
+* Làm trang web tổng hợp tất cả mọi thứ
+* Làm web mạng xã hội
+* Làm web chat chít và call qua lại
+* Làm web xem phim
+* Làm chatbot
+* Làm noti cho kênh chat

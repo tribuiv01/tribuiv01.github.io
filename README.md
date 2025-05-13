@@ -70,3 +70,14 @@ source ~/.bashrc
 ```
 
 - https://tenten.vn/tin-tuc/100-mau-themes-landing-page-wordpress-dep/
+
+Idealy:
+* Làm trang giới thiệu bản thân
+* Làm trang docs cho cái gì đó
+* Làm trang blog để đọc chơi
+* Làm trang bán hàng gì đó
+* Làm trang web short-link
+* Làm trang web để upload file lên và chia sẻ
+* Làm trang giới thiệu công ty
+* Làm trang 3D gì đớ, xịn xò
+* Làm trang 1 dạng như form để lấy thông tin

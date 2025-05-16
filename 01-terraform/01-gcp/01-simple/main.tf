@@ -8,6 +8,8 @@ resource "google_compute_instance" "vm_instance" {
   name         = "demo-vm"
   machine_type = "e2-medium"
 
+  allow_stopping_for_update = true
+
   boot_disk {
     initialize_params {
       image = "debian-cloud/debian-11"
@@ -28,6 +30,21 @@ resource "google_compute_instance" "vm_instance" {
   }
 
   tags = ["http-server"]
+
+  # Thêm service account configuration
+  service_account {
+    # Sử dụng email của service account
+    email  = google_service_account.vm_service_account.email
+    
+    # Định nghĩa các scopes cần thiết
+    scopes = [
+      "https://www.googleapis.com/auth/cloud-platform",
+      "https://www.googleapis.com/auth/compute",
+      "https://www.googleapis.com/auth/devstorage.read_only",
+      "https://www.googleapis.com/auth/logging.write",
+      "https://www.googleapis.com/auth/monitoring.write"
+    ]
+  }
 }
 
 resource "google_compute_firewall" "default" {
@@ -41,4 +58,9 @@ resource "google_compute_firewall" "default" {
 
   source_ranges = ["0.0.0.0/0"]
   target_tags   = ["http-server"]
+}
+
+resource "google_service_account" "vm_service_account" {
+  account_id   = "vm-service-account"
+  display_name = "Service Account for VM"
 }

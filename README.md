@@ -1,10 +1,10 @@
 # Learning...
-
-* http://blog.tribv.cloud/
-* http://aws.tribv.cloud/
-* http://gcp.tribv.cloud/
-* http://azure.tribv.cloud/
-* http://do.tribv.cloud/
+Welcome to my site!
+* http://intro.tribv.cloud
+* http://aws.tribv.cloud
+* http://gcp.tribv.cloud
+* http://azure.tribv.cloud
+* http://do.tribv.cloud
 
 ## (init)
 - Đăng kí tài khoản Gmail
